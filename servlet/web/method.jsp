@@ -11,7 +11,9 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="method" method="post">
+    <form action="request" method="post">
+        用户名：<input type="text" name="name" value=""/><br/>
+        密码：<input type="text" name="pwd" value=""/><br/>
         <input type="submit" value="转发">
     </form>
 </body>

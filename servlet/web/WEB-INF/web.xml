@@ -32,4 +32,12 @@
         <url-pattern>/method</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>request</servlet-name>
+        <servlet-class>com.mashibing.ServletRequest</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>request</servlet-name>
+        <url-pattern>/request</url-pattern>
+    </servlet-mapping>
 </web-app>
