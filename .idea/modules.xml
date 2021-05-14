@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyTomcat/MyTomcat.iml" filepath="$PROJECT_DIR$/MyTomcat/MyTomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTomcat/MyTomcat.iml" filepath="$PROJECT_DIR$/myTomcat/MyTomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forwardAndRedirect/forwardAndRedirect.iml" filepath="$PROJECT_DIR$/forwardAndRedirect/forwardAndRedirect.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEE.iml" filepath="$PROJECT_DIR$/javaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servletConfig/servletConfig.iml" filepath="$PROJECT_DIR$/servletConfig/servletConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servletContext/servletContext.iml" filepath="$PROJECT_DIR$/servletContext/servletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session/session.iml" filepath="$PROJECT_DIR$/session/session.iml" />
     </modules>
   </component>
 </project>

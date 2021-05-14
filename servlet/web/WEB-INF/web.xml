@@ -40,4 +40,13 @@
         <servlet-name>request</servlet-name>
         <url-pattern>/request</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>response</servlet-name>
+        <servlet-class>com.mashibing.ServletResponse</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>response</servlet-name>
+        <url-pattern>/response</url-pattern>
+    </servlet-mapping>
 </web-app>
