@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/cookie/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/forwardAndRedirect/forwardAndRedirect.iml" filepath="$PROJECT_DIR$/forwardAndRedirect/forwardAndRedirect.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEE.iml" filepath="$PROJECT_DIR$/javaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFilter/myFilter.iml" filepath="$PROJECT_DIR$/myFilter/myFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myListense/myListense.iml" filepath="$PROJECT_DIR$/myListense/myListense.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/servletConfig/servletConfig.iml" filepath="$PROJECT_DIR$/servletConfig/servletConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/servletContext/servletContext.iml" filepath="$PROJECT_DIR$/servletContext/servletContext.iml" />
